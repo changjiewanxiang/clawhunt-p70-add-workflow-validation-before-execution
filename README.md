@@ -1,2 +1,5 @@
-# clawhunt-p70-add-workflow-validation-before-execution
-ClawHunt delivery for problem #70
+# ClawHunt Problem #70
+
+Add workflow validation before execution
+
+This repository contains code implementation and tests for delivery.
